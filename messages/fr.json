@@ -1,0 +1,386 @@
+
+{
+  "Metadata": {
+    "title": "AutoMac Montréal - Voitures Fiables & Service Professionnel",
+    "description": "Votre concessionnaire de confiance à Montréal pour des voitures d'occasion de qualité, des réparations expertes et des services de pneus. Visitez AutoMac pour des solutions automobiles professionnelles.",
+    "keywords": "voitures d'occasion montréal, réparation auto montréal, changement de pneus montréal, concessionnaire auto montréal, AutoMac",
+    "aboutTitle": "À propos d'AutoMac Montréal",
+    "aboutDescription": "Découvrez l'histoire d'AutoMac Montréal, les valeurs de notre équipe et notre engagement envers le service client dans la communauté automobile de Montréal.",
+    "bookingTitle": "Prendre un rendez-vous",
+    "bookingDescription": "Planifiez votre service automobile ou votre consultation avec AutoMac Montréal. Remplissez notre formulaire de réservation simple.",
+    "contactTitle": "Nous Contacter",
+    "contactDescription": "Contactez AutoMac Montréal. Trouvez notre adresse, numéro de téléphone, courriel et emplacement sur la carte. Nous avons hâte de vous entendre!",
+    "servicesTitle": "Nos Services",
+    "servicesDescription": "AutoMac Montréal offre une large gamme de services automobiles, y compris les changements de pneus, les réparations de freins, les vidanges d'huile, et plus encore. Prenez rendez-vous dès aujourd'hui!",
+    "usedCarsTitle": "Voitures d'occasion à vendre",
+    "usedCarsDescription": "Parcourez notre inventaire de véhicules d'occasion de qualité chez AutoMac Montréal. Trouvez votre prochaine voiture aujourd'hui!",
+    "privacyTitle": "Politique de confidentialité",
+    "privacyDescription": "Lisez la politique de confidentialité d'AutoMac Montréal pour comprendre comment nous collectons, utilisons et protégeons vos informations personnelles.",
+    "copyrightTitle": "Politique de droits d'auteur",
+    "copyrightDescription": "Lisez la politique de droits d'auteur pour AutoMac Montréal.",
+    "termsTitle": "Termes et Conditions",
+    "termsDescription": "Lisez les termes et conditions d'utilisation du site web et des services d'AutoMac Montréal."
+  },
+  "Navbar": {
+    "home": "Accueil",
+    "usedCars": "Voitures d'occasion",
+    "services": "Services",
+    "bookAppointment": "Prendre RDV",
+    "contact": "Contact",
+    "about": "À Propos"
+  },
+  "LanguageSwitcher": {
+    "label": "Langue"
+  },
+  "Footer": {
+    "quickLinks": "Liens Rapides",
+    "connect": "Connecter",
+    "tagline": "Voitures Fiables. Service Professionnel.",
+    "phone": "Téléphone",
+    "email": "Courriel",
+    "copyright": "© {year} AutoMac Montréal. Tous droits réservés.",
+    "privacyPolicy": "Politique de confidentialité",
+    "copyrightPolicy": "Politique de droits d'auteur",
+    "termsAndConditions": "Termes et Conditions"
+  },
+  "HomePage": {
+    "heroTitle": "Voitures Fiables. Service Professionnel.",
+    "heroSubtitle": "Votre partenaire de confiance pour des véhicules d'occasion de qualité et des soins automobiles experts à Montréal.",
+    "heroCta": "Voir les voitures d'occasion",
+    "whyChooseTitle": "Pourquoi choisir Auto Mac?",
+    "ctaTitle": "Prêt à trouver votre prochaine voiture ou service?",
+    "ctaSubtitle": "Explorez notre inventaire, découvrez nos services ou contactez notre équipe amicale dès aujourd'hui.",
+    "ctaBrowse": "Parcourir les voitures",
+    "ctaContact": "Nous Contacter",
+    "testimonialsTitle": "Ce que disent nos clients",
+    "featuredTitle": "Nos Véhicules en Vedette",
+    "featuredViewAll": "Voir Tout l'Inventaire"
+  },
+  "AboutPage": {
+    "title": "À propos d'AutoMac Montréal",
+    "subtitle": "Votre partenaire de confiance pour des véhicules de qualité et des services automobiles exceptionnels au cœur de Montréal.",
+    "storyTitle": "Notre Histoire",
+    "storyP1": "Fondé avec une passion pour les voitures et un engagement envers notre communauté, AutoMac Montréal est passé d'un petit atelier local à un nom respecté sur la scène automobile de Montréal. Depuis des années, nous nous consacrons à fournir des véhicules d'occasion de haute qualité et des services de réparation automobile fiables.",
+    "storyP2": "Notre parcours est bâti sur la confiance, la transparence et un désir sincère d'aider nos clients à trouver le véhicule parfait ou à obtenir les meilleurs soins pour leur voiture actuelle. Nous croyons en la construction de relations durables, un client satisfait à la fois.",
+    "valuesTitle": "Nos Valeurs",
+    "value1Title": "Le client d'abord",
+    "value1Desc": "Nous priorisons vos besoins et votre satisfaction avant tout, garantissant une expérience personnalisée et positive.",
+    "value2Title": "Qualité et Intégrité",
+    "value2Desc": "Nous garantissons la qualité de nos véhicules et services, en opérant avec honnêteté et transparence dans toutes nos transactions.",
+    "value3Title": "Focus sur la communauté",
+    "value3Desc": "En tant qu'entreprise locale de Montréal, nous nous engageons à servir et à soutenir notre communauté grâce à des solutions automobiles fiables.",
+    "commitmentTitle": "Notre Engagement Envers Vous",
+    "commitmentDesc": "Chez AutoMac Montréal, notre philosophie est simple : fournir des véhicules fiables, un service expert et une expérience client inégalée. Nous comprenons que l'achat d'une voiture ou son entretien peut être une décision importante, et notre équipe est là pour vous guider à chaque étape avec une communication claire et des conseils professionnels. Nous ne vendons pas seulement des voitures; nous bâtissons la confiance et assurons votre sécurité et votre satisfaction sur la route."
+  },
+  "BookingPage": {
+    "title": "Prenez votre rendez-vous",
+    "subtitle": "Utilisez le formulaire ci-dessous pour demander un rendez-vous pour l'un de nos services. Nous vous répondrons sous peu pour confirmer les détails.",
+    "formTitle": "Formulaire de demande de rendez-vous",
+    "formDesc": "Veuillez remplir vos coordonnées et le service préféré.",
+    "submitSuccessTitle": "Réservation soumise!",
+    "submitSuccessDesc": "Merci, {name}. Nous avons reçu votre réservation pour {service} le {date}. Nous vous contacterons sous peu."
+  },
+  "BookingForm": {
+    "nameLabel": "Nom complet",
+    "namePlaceholder": "Jean Dupont",
+    "nameError": "Le nom doit comporter au moins 2 caractères.",
+    "phoneLabel": "Numéro de téléphone",
+    "phonePlaceholder": "+1 (555) 123-4567",
+    "phoneError": "Format de numéro de téléphone invalide.",
+    "emailLabel": "Adresse e-mail",
+    "emailPlaceholder": "jean.dupont@example.com",
+    "emailError": "Adresse e-mail invalide.",
+    "serviceLabel": "Type de service",
+    "servicePlaceholder": "Sélectionnez un service",
+    "serviceError": "Veuillez sélectionner un service.",
+    "dateLabel": "Date préférée",
+    "datePlaceholder": "Choisissez une date",
+    "dateError": "Une date pour le rendez-vous est requise.",
+    "messageLabel": "Message supplémentaire (facultatif)",
+    "messagePlaceholder": "Des demandes ou des commentaires spécifiques?",
+    "submitButton": "Soumettre la demande de réservation"
+  },
+  "ContactPage": {
+    "title": "Contacter AutoMac Montréal",
+    "subtitle": "Nous sommes là pour vous aider avec tous vos besoins automobiles. Contactez-nous par téléphone, courriel ou visitez notre concession.",
+    "infoTitle": "Nos Informations",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "Courriel",
+    "hoursTitle": "Heures d'ouverture",
+    "hours": [
+      "Lundi - Vendredi: 9:00 - 18:00",
+      "Samedi: 10:00 - 16:00",
+      "Dimanche: Fermé"
+    ],
+    "mapTitle": "Trouvez-nous sur la carte",
+    "facebookTitle": "Connectez-vous sur Facebook"
+  },
+  "ServicesPage": {
+    "title": "Services Automobiles",
+    "subtitle": "Nos techniciens experts sont équipés pour répondre à tous vos besoins en matière d'entretien automobile. Nous utilisons des pièces de qualité et fournissons un service professionnel pour maintenir votre véhicule en parfait état."
+  },
+  "UsedCarsPage": {
+    "title": "Notre Inventaire de Voitures d'Occasion",
+    "subtitle": "Chaque véhicule est soigneusement inspecté pour garantir qualité et fiabilité. Trouvez la voiture parfaite pour vos besoins et votre budget.",
+    "available": "Véhicules Disponibles",
+    "sold": "Récemment Vendus",
+    "noCars": "Aucune voiture actuellement répertoriée. Veuillez revenir bientôt!"
+  },
+  "CarDetailPage": {
+    "back": "Retour aux annonces",
+    "loading": "Chargement des détails de la voiture...",
+    "notFound": "Voiture non trouvée",
+    "notFoundDesc": "Désolé, nous n'avons pas pu trouver la voiture que vous recherchez.",
+    "backToUsedCars": "Retour aux voitures d'occasion",
+    "year": "Année",
+    "mileage": "Kilométrage",
+    "status": "Statut",
+    "description": "Description",
+    "features": "Caractéristiques Clés",
+    "inquire": "Se renseigner sur cette voiture"
+  },
+  "CarCard": {
+    "year": "Année",
+    "mileage": "Kilométrage",
+    "details": "Voir les détails"
+  },
+  "ServiceCard": {
+    "bookNow": "Réserver maintenant"
+  },
+  "ServicesOverviewHome": {
+    "qualityCars": "Voitures d'occasion de qualité",
+    "qualityCarsDesc": "Sélection triée sur le volet de véhicules d'occasion fiables, minutieusement inspectés pour votre tranquillité d'esprit.",
+    "browseInventory": "Parcourir l'inventaire",
+    "expertRepair": "Réparation auto experte",
+    "expertRepairDesc": "Nos techniciens certifiés fournissent des services de réparation et d'entretien de premier ordre pour toutes les marques et modèles.",
+    "ourServices": "Nos Services",
+    "customerSatisfaction": "Satisfaction du client",
+    "customerSatisfactionDesc": "Nous nous engageons à fournir un service transparent, honnête et amical à chaque client.",
+    "learnMore": "En savoir plus"
+  },
+   "PrivacyPage": {
+    "metaTitle": "Politique de confidentialité - AutoMac Montréal",
+    "metaDescription": "Lisez la politique de confidentialité d'AutoMac Montréal pour comprendre comment nous collectons, utilisons et protégeons vos informations personnelles.",
+    "title": "Politique de confidentialité",
+    "effectiveDate": "Date d'entrée en vigueur : {date}",
+    "intro": "Auto Mac (« nous », « notre » ou « nos ») respecte votre vie privée et s'engage à protéger vos informations personnelles. Cette politique de confidentialité décrit comment nous collectons, utilisons et protégeons vos données conformément aux lois sur la protection de la vie privée du Québec et du Canada.",
+    "section1Title": "1. Informations que nous collectons",
+    "section1Intro": "Nous pouvons collecter les informations personnelles suivantes lorsque vous nous contactez, visitez notre établissement ou utilisez nos services :",
+    "section1Point1": "Informations d'identification personnelle (par ex., votre nom, numéro de téléphone, adresse e-mail)",
+    "section1Point2": "Informations sur le véhicule (par ex., marque, modèle, année, plaque d'immatriculation)",
+    "section1Point3": "Détails de la demande de service (par ex., date du rendez-vous, type de service)",
+    "section1Point4": "Informations de paiement (le cas échéant pour les transactions de service)",
+    "section2Title": "2. Comment nous utilisons vos informations",
+    "section2Intro": "Nous utilisons les informations que vous fournissez pour :",
+    "section2Point1": "Planifier et gérer les rendez-vous de service",
+    "section2Point2": "Fournir des services de vente de voitures et des services liés aux véhicules tels que les vidanges d'huile, les services de pneus, les diagnostics, les réparations de freins et l'entretien général",
+    "section2Point3": "Communiquer avec vous au sujet de votre rendez-vous ou de votre demande",
+    "section2Point4": "Envoyer des mises à jour de service ou des messages promotionnels (uniquement si vous avez choisi de les recevoir)",
+    "section2Point5": "Se conformer aux exigences légales et réglementaires",
+    "section3Title": "3. Partage des informations",
+    "section3Intro": "Nous ne vendons ni ne louons vos informations personnelles. Nous pouvons partager vos données uniquement avec :",
+    "section3Point1": "Les techniciens ou le personnel responsables de la fourniture des services que vous demandez",
+    "section3Point2": "Les fournisseurs de services tiers impliqués dans le traitement sécurisé des paiements",
+    "section3Point3": "Les autorités réglementaires si la loi ou une procédure judiciaire l'exige",
+    "section3Outro": "Toutes les parties avec lesquelles nous partageons des données sont tenues de les protéger conformément aux normes légales.",
+    "section4Title": "4. Stockage et sécurité des données",
+    "section4Point1": "Nous stockons vos informations personnelles en toute sécurité et utilisons des mesures raisonnables pour les protéger contre l'accès, la perte ou l'utilisation abusive non autorisés.",
+    "section4Point2": "Nous ne conservons les données personnelles que le temps nécessaire pour atteindre les objectifs énumérés ci-dessus ou pour respecter les obligations légales.",
+    "section5Title": "5. Vos droits",
+    "section5Intro": "Vous avez le droit de :",
+    "section5Point1": "Accéder aux informations personnelles que nous détenons à votre sujet",
+    "section5Point2": "Demander la correction de toute donnée inexacte",
+    "section5Point3": "Retirer votre consentement pour une utilisation future (le cas échéant)",
+    "section5Point4": "Demander la suppression de vos données personnelles, sous réserve des lois applicables",
+    "section5Outro": "Pour exercer vos droits, contactez-nous en utilisant les informations ci-dessous.",
+    "section6Title": "6. Nous contacter",
+    "section6Intro": "Pour toute question concernant cette politique de confidentialité ou pour faire une demande liée à la confidentialité, veuillez contacter :",
+    "phoneLabel": "Téléphone"
+  },
+  "CopyrightPage": {
+    "metaTitle": "Politique de droits d'auteur - AutoMac Montréal",
+    "metaDescription": "Comprendre la politique de droits d'auteur pour le contenu du site web d'AutoMac Montréal.",
+    "title": "Politique de droits d'auteur",
+    "effectiveDate": "Date d'entrée en vigueur : {date}",
+    "intro": "Auto Mac (« nous », « notre » ou « nos ») possède et exploite ce site web et son contenu connexe. Cette politique de droits d'auteur explique comment notre contenu peut être utilisé et comment signaler les violations potentielles de droits d'auteur.",
+    "section1Title": "1. Propriété du contenu",
+    "section1Intro": "Sauf indication contraire, tout le contenu de ce site web est la propriété d'Auto Mac. Cela inclut, sans s'y limiter :",
+    "section1Point1": "Texte, images, graphiques et vidéos",
+    "section1Point2": "Logos, marques de commerce et image de marque",
+    "section1Point3": "Mises en page et conception visuelle",
+    "section1Point4": "Descriptions des services et tarification",
+    "section1Outro": "Ce contenu est protégé par les lois canadiennes sur le droit d'auteur et les accords internationaux de propriété intellectuelle.",
+    "section2Title": "2. Utilisation autorisée",
+    "section2Intro": "Vous pouvez afficher, imprimer ou télécharger du contenu de ce site web pour votre usage personnel et non commercial uniquement. Vous ne pouvez pas :",
+    "section2Point1": "Copier, reproduire ou distribuer du contenu à des fins commerciales",
+    "section2Point2": "Modifier ou adapter toute partie du site web sans autorisation écrite",
+    "section2Point3": "Utiliser nos logos, images ou matériaux de manière trompeuse ou non autorisée",
+    "section2Point4": "Encadrer ou mettre en miroir notre site web ou créer des œuvres dérivées",
+    "section3Title": "3. Utilisation non autorisée et violations",
+    "section3Intro": "Toute utilisation non autorisée de notre contenu protégé par le droit d'auteur peut entraîner :",
+    "section3Point1": "Des poursuites judiciaires en vertu de la Loi sur le droit d'auteur du Canada",
+    "section3Point2": "Des demandes de retrait ou de suppression des matériaux contrefaisants",
+    "section3Point3": "Le signalement aux plateformes d'hébergement ou aux moteurs de recherche (le cas échéant)",
+    "section4Title": "4. Signaler une violation de droits d'auteur",
+    "section4Intro": "Si vous pensez que du contenu sur notre site web enfreint vos droits d'auteur, veuillez nous contacter avec :",
+    "section4Point1": "Votre nom et vos coordonnées",
+    "section4Point2": "Une description de l'œuvre protégée par le droit d'auteur",
+    "section4Point3": "L'URL spécifique ou l'emplacement du contenu présumé contrefaisant",
+    "section4Point4": "Une déclaration confirmant votre propriété ou votre autorisation",
+    "section4Outro": "Envoyez les préoccupations relatives aux droits d'auteur à :",
+    "phoneLabel": "Téléphone",
+    "section5Title": "5. Mises à jour de cette politique",
+    "section5Point1": "Nous pouvons mettre à jour cette politique de droits d'auteur de temps à autre. Toute modification sera publiée sur cette page avec la date d'entrée en vigueur mise à jour."
+  },
+  "TermsPage": {
+    "metaTitle": "Termes et Conditions - AutoMac Montréal",
+    "metaDescription": "Lisez les termes et conditions d'utilisation du site web et des services d'AutoMac Montréal.",
+    "title": "Termes et Conditions",
+    "effectiveDate": "Date d'entrée en vigueur : {date}",
+    "intro": "Bienvenue chez Auto Mac. En accédant à notre site web ou en utilisant nos services, vous acceptez d'être lié par les termes et conditions suivants. Veuillez les lire attentivement.",
+    "section1Title": "1. Services Fournis",
+    "section1Intro": "Auto Mac propose la vente de voitures et des services automobiles, notamment :",
+    "section1Point1": "Vente de véhicules",
+    "section1Point2": "Changements d'huile",
+    "section1Point3": "Changements de pneus",
+    "section1Point4": "Diagnostics de voiture",
+    "section1Point5": "Réparation et inspection des freins",
+    "section1Point6": "Entretien général de la voiture",
+    "section1Outro": "Tous les services sont fournis sous réserve de disponibilité et des lois applicables au Québec.",
+    "section2Title": "2. Conditions de Rendez-vous et de Service",
+    "section2Point1": "Les rendez-vous sont facultatifs et recommandés pour une meilleure gestion du temps, mais non obligatoires.",
+    "section2Point2": "Les services sont fournis sur la base du premier arrivé, premier servi pour les clients sans rendez-vous.",
+    "section2Point3": "Nous nous efforçons de réaliser les services dans les délais estimés mais ne garantissons pas un timing exact en raison de circonstances imprévues.",
+    "section2Point4": "Les clients doivent fournir des informations exactes sur leur véhicule et leurs données personnelles pour assurer un service adéquat.",
+    "section2Point5": "Toute réparation ou service supplémentaire non convenu initialement sera communiqué pour approbation avant de procéder.",
+    "section3Title": "3. Tarification et Paiement",
+    "section3Point1": "Les prix des véhicules et des services sont ceux indiqués et peuvent être modifiés sans préavis.",
+    "section3Point2": "Les paiements sont dus à l'achèvement des services ou selon les termes convenus.",
+    "section3Point3": "Nous acceptons divers modes de paiement, qui seront confirmés au moment du service.",
+    "section4Title": "4. État du Véhicule et Garantie",
+    "section4Point1": "Les clients sont responsables de fournir des informations exactes sur l'état de leur véhicule.",
+    "section4Point2": "Les conditions de garantie, le cas échéant, seront explicitement indiquées au moment de la vente ou du service.",
+    "section4Point3": "Auto Mac n'est pas responsable des dommages résultant de conditions préexistantes ou d'une mauvaise utilisation après le service.",
+    "section5Title": "5. Limitation de Responsabilité",
+    "section5Point1": "Dans toute la mesure permise par la loi, Auto Mac n'est pas responsable des dommages indirects, accessoires ou consécutifs découlant de l'utilisation de nos services ou de notre site web.",
+    "section5Point2": "Notre responsabilité maximale est limitée au montant payé pour le service ou le produit spécifique en question.",
+    "section6Title": "6. Propriété Intellectuelle",
+    "section6Point1": "Tout le contenu de notre site web, y compris les textes, images, logos et marques de commerce, est la propriété d'Auto Mac et est protégé par la loi sur le droit d'auteur.",
+    "section6Point2": "L'utilisation non autorisée de notre contenu est interdite (voir notre Politique de droits d'auteur).",
+    "section7Title": "7. Confidentialité",
+    "section7Point1": "Nous collectons et utilisons vos informations personnelles conformément à notre Politique de confidentialité.",
+    "section7Point2": "En utilisant nos services, vous consentez à cette collecte et à cette utilisation.",
+    "section8Title": "8. Loi Applicable",
+    "section8Point1": "Ces Termes et Conditions sont régis par les lois de la Province de Québec et les lois fédérales du Canada. Tout litige sera soumis à la compétence exclusive des tribunaux du Québec.",
+    "section9Title": "9. Modifications des Conditions",
+    "section9Point1": "Nous nous réservons le droit de mettre à jour ou de modifier ces Termes et Conditions à tout moment. Les modifications seront publiées sur cette page avec une date d'entrée en vigueur mise à jour.",
+    "section10Title": "10. Coordonnées",
+    "section10Intro": "Si vous avez des questions sur ces Termes et Conditions, veuillez nous contacter à :",
+    "phoneLabel": "Téléphone"
+  },
+  "Data": {
+    "cars": {
+      "1": {
+        "make": "Honda",
+        "model": "Civic LX",
+        "description": "Une berline fiable et économe en carburant, parfaite pour la conduite en ville et les trajets quotidiens. Bien entretenue avec un historique propre. Comprend une caméra de recul, une connectivité Bluetooth et une climatisation automatique.",
+        "features": ["Caméra de recul", "Bluetooth", "Climatisation automatique", "Sièges chauffants"]
+      },
+      "2": {
+        "make": "Toyota",
+        "model": "RAV4 LE",
+        "description": "VUS spacieux et polyvalent avec la fiabilité renommée de Toyota. Livré avec des fonctions de sécurité avancées et un grand espace de chargement. Idéal pour les familles ou les amateurs d'aventure.",
+        "features": ["Toyota Safety Sense", "Écran tactile", "Traction intégrale", "Régulateur de vitesse adaptatif"]
+      },
+      "3": {
+        "make": "Ford",
+        "model": "F-150 XLT",
+        "description": "Un camion pick-up puissant et fiable, prêt pour le travail ou les loisirs. Dispose d'un moteur V6 robuste et d'une cabine confortable et bien équipée. Ensemble de remorquage inclus.",
+        "features": ["Moteur V6", "Ensemble de remorquage", "Infodivertissement SYNC 3", "Marchepieds"]
+      },
+      "4": {
+        "make": "Mazda",
+        "model": "CX-5 Touring",
+        "description": "VUS compact élégant et amusant à conduire avec un intérieur haut de gamme et une maniabilité engageante. Excellent état et bien équipé. Un excellent véhicule polyvalent.",
+        "features": ["Sièges en similicuir", "Toit ouvrant", "Surveillance des angles morts", "Apple CarPlay/Android Auto"]
+      },
+      "5": {
+        "make": "Hyundai",
+        "model": "Elantra Preferred",
+        "description": "Berline compacte moderne et bien équipée. Offre une excellente valeur avec un faible kilométrage et une garantie d'usine restante. Design élégant et conduite confortable.",
+        "features": ["Assistance à l'évitement de collision frontale", "Assistance au maintien de voie", "Volant chauffant", "Chargement sans fil"]
+      },
+       "6": {
+        "make": "Mini",
+        "model": "Cooper",
+        "description": "Une voiture compacte amusante et élégante, parfaite pour se déplacer en ville. Cette Mini Cooper offre un design emblématique et une maniabilité de type go-kart. Bien équipée et un plaisir à conduire.",
+        "features": ["Toit ouvrant panoramique", "Sièges sport en similicuir", "Audio Bluetooth", "Démarrage par bouton-poussoir"]
+      },
+      "7": {
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "description": "Découvrez le luxe et la performance avec cette élégante Mercedes-Benz Classe C. Une conduite douce, un intérieur haut de gamme et un design intemporel en font un choix remarquable pour une berline sophistiquée.",
+        "features": ["Garniture en cuir", "Système de navigation", "Attention Assist", "Sièges avant chauffants"]
+      },
+      "8": {
+        "make": "Mercedes-Benz",
+        "model": "E400 4Matic",
+        "description": "Laissez-vous séduire par le luxe et les performances ultimes avec cette Mercedes-Benz E400 4Matic 2016 entièrement équipée. Dotée d'un toit ouvrant panoramique, d'une caméra à 360 degrés et d'aides à la conduite avancées, ce véhicule offre une expérience de conduite inégalée. Le mélange parfait d'élégance, de puissance et de technologie de pointe.",
+        "features": [
+          "Siège à mémoire 3 positions",
+          "Sièges chauffants et ventilés",
+          "Toit ouvrant panoramique",
+          "Caméra 360",
+          "Navigation GPS",
+          "Palettes de changement de vitesse Tiptronic",
+          "Démarrage par bouton-poussoir",
+          "Modes Sport/Économie",
+          "Capteurs de stationnement",
+          "Pare-soleil arrière électrique"
+        ]
+      } 
+    },
+    "services": {
+      "1": {
+        "name": "Changement et équilibrage de pneus",
+        "description": "Changements de pneus saisonniers, rotations et équilibrage de précision des roues pour des performances et une sécurité optimales."
+      },
+      "2": {
+        "name": "Réparation et inspection des freins",
+        "description": "Vérifications complètes du système de freinage, remplacement des plaquettes et des disques, et services de fluides par des techniciens certifiés."
+      },
+      "3": {
+        "name": "Vidange d'huile et appoint de fluides",
+        "description": "Changements d'huile réguliers avec de l'huile de qualité synthétique ou conventionnelle, ainsi que des vérifications et des appoints pour tous les fluides essentiels."
+      },
+      "4": {
+        "name": "Diagnostic du moteur",
+        "description": "Outils de diagnostic avancés pour identifier et résoudre les problèmes de moteur, garantissant des performances de pointe."
+      },
+      "5": {
+        "name": "Entretien général de la voiture",
+        "description": "Services d'entretien réguliers pour maintenir votre véhicule en bon état de marche et prolonger sa durée de vie."
+      }
+    },
+    "testimonials": {
+      "1": {
+        "name": "Jean P.",
+        "quote": "AutoMac Montréal m'a trouvé la voiture parfaite à un prix avantageux. Le service était amical et professionnel. Je recommande vivement!",
+        "location": "Montréal, QC"
+      },
+      "2": {
+        "name": "Sophie L.",
+        "quote": "J'amène toujours ma voiture ici pour les réparations. Ils sont honnêtes, fiables et font un excellent travail. Équipe de confiance!",
+        "location": "Laval, QC"
+      },
+      "3": {
+        "name": "Ahmed B.",
+        "quote": "Service de changement de pneus rapide et efficace. Le personnel était compétent et serviable. Je reviendrai certainement!",
+        "location": "Brossard, QC"
+      }
+    }
+  }
+}
+
+    
